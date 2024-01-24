@@ -6,4 +6,5 @@ The repo is structured as:
     input/data contains the data and literature.
     outputs/data contains paper and references.
     script contains simulation data, download data, and clean data.
-## Statement on LLM usage: No LLMs were used for any aspect of this work.
+## LLM usage
+Statement on LLM usage: No LLMs were used for any aspect of this work.
